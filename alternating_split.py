@@ -1,3 +1,4 @@
+# asked to print a given string according to odd then even indexes respectively
 def alternating_split(string):
 	arr = [i for i in string]
 	out = ""

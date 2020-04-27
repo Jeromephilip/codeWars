@@ -1,3 +1,4 @@
+# If a letter is duplicated, then count it
 def duplicate_count(text):
     values = {}
     arr = []

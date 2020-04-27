@@ -1,3 +1,4 @@
+# Gives string, print the corresponding letter for each letter in string. ACTG --> TGAC
 def DNA(dna):
 	dna = dna.lower()
 	out = ""
